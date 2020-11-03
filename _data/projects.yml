@@ -6,8 +6,7 @@
      Accomplished. Used languages: CSS,HTML,JavaScript,jQuery
      
 - layout: top-middle
-  name: Web-Game Manager
-  quote: >
-     The purpose of this project to build a web manager for dedicated gamers that match among players based on saved data.
+  name: Online Restaurant Business
   description: | # this will include new lines to allow paragraphs
-     Accomplished. Used languages: CSS,HTML,JavaScript,jQuery
+     The focus on this project is to completely re-envision and explore fresh ideas for how people can explore the on-line menu and choose items to order.
+     Used languages: Angular4
