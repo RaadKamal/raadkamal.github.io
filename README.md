@@ -1,4 +1,4 @@
-![](file.gif)
+
 # Hosting Markdown-formatted resume on Github  
 
 The procedure doesn't require any pre-skills on programming. All I need from you is your eminent focus for only 10 minutes if you have already had the prerequisites completed. It is supposed to be easier than installing an application on your operating system.
