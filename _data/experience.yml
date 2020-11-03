@@ -1,10 +1,12 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: ShoppersDrugMart
+
+  job_title: Cashier
+  dates: October 2018- Present
+  
+  description: |
+    Provide excellent customer service and positively engage with all customers
+    Greets all customers and displays warm demeanor
+    Accurately scans and enters product data
+    Answers enquires regarding location of product, rainchecks, refunds, PC Optimum
