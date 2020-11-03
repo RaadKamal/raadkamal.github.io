@@ -2,12 +2,12 @@
 - layout: top-middle
   name: Web-Game Manager
   description: | # this will include new lines to allow paragraphs
-      -The purpose of this project to build a web manager for dedicated gamers that match among players based on saved data.
-      -Accomplished. 
-      -Used languages: CSS,HTML,JavaScript,jQuery
+      The purpose of this project to build a web manager for dedicated gamers that match among players based on saved data.
+      Accomplished.
+      Used languages: CSS,HTML,JavaScript,jQuery
      
 - layout: top-middle
   name: Online Restaurant Business
   description: | # this will include new lines to allow paragraphs
-     -The focus on this project is to completely re-envision and explore fresh ideas for how people can explore the on-line menu and choose items to order.
-     -Used languages: Angular4
+     The focus on this project is to completely re-envision and explore fresh ideas for how people can explore the on-line menu and choose items to order.
+     Used languages: Angular4
