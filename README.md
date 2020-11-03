@@ -60,7 +60,7 @@ Do a meticulous review of my stated steps along with these checks:\
 - Still not confident or have some doubts, you might want to see this tutorial [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
 ## Authors and Acknowledgment :
- - ### Mostafa Raad Kamal\
+ - ### Mostafa Raad Kamal
     contact: Kamalmr@myumanitoba.ca\
   Thank you to Christena Penner for being a great Professor to help me write this document.
 
@@ -68,4 +68,4 @@ Do a meticulous review of my stated steps along with these checks:\
 **Question:** Why is Markdownbetter than a word processor?\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.\
 **Question:** Why is my resume not showing up?\
-**Answer:** It can happen, here are several helpful hotfixes, Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.\
+**Answer:** It can happen, here are several helpful hotfixes, Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.
