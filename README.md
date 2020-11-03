@@ -39,7 +39,7 @@ if you are not interested in any of them and want to make your template from scr
 
 2.Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private.
 
-3.Step 3 is to host it online; all .md files have to be in one of the directories in GitHub Pages home repository. Also have to change the Repo name in this special format which is  usernameofyourgithub.github.io.This is a very important part of the instruction though it takes small effort.
+3.Step 3 is to host it online; all .md files have to be in one of the directories in GitHub Pages home repository. Also have to change the Repo name in this special format which is  **`usernameofyourgithub.github.io`**.This is a very important part of the instruction though it takes small effort.
 
 4.You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put in by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
 
