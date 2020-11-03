@@ -37,7 +37,6 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_content: | # this will include new lines to allow paragraphs
   I'm open to new ideas and experiences when they are presented to me. When it comes to controversial issues, I have a keen ability to keep an open mind while maintaining my stance or opinions .
-  - https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftech&psig=AOvVaw0St0MaicHsdQq4o5s5rKzS&ust=1604464829668000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjzorPH5ewCFQAAAAAdAAAAABAD
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
