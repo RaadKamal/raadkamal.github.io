@@ -24,9 +24,9 @@ Here are some helpful links to start with:
 ### Jekyll
 There are a lot of Jekyll themes available online. Try them out for saving time:
 
--https://jamstackthemes.dev/ssg/jekyll/\
--https://jekyllthemes.io/\
--https://jekyll-themes.com/\
+-https://jamstackthemes.dev/ssg/jekyll/  
+-https://jekyllthemes.io/  
+-https://jekyll-themes.com/  
 
 if you are not interested in any of them and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
 -[Jekyll by Mike Dane](https://www.mikedane.com/static-site-generators/jekyll/)
