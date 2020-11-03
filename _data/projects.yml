@@ -5,3 +5,10 @@
      The purpose of this project to build a web manager for dedicated gamers that match among players based on saved data.
   description: | # this will include new lines to allow paragraphs
      Accomplished. Used languages: CSS,HTML,JavaScript,jQuery
+     
+- layout: top-middle
+  name: Web-Game Manager
+  quote: >
+     The purpose of this project to build a web manager for dedicated gamers that match among players based on saved data.
+  description: | # this will include new lines to allow paragraphs
+     Accomplished. Used languages: CSS,HTML,JavaScript,jQuery
