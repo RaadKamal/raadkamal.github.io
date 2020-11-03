@@ -49,8 +49,7 @@ if you are not interested in any of them and want to make your template from scr
 
 
 5.Lastly, it is for you to view your resume on your web browser. Go to link usernameofyourgithub.github.io. And if I'm not lucky enough at least it diversifies your knowledge.
-\
-\
+
 
 
 
