@@ -35,19 +35,19 @@ if you are not interested in any of them and want to make your template from scr
 
 ![](file.gif)
 
-\1.You are likely to have resume in Markdown format up till now. Next, in your GitHub account, upload your resume.md file. However, if you did use Jekyll to format your resume, you can upload the entire folder. The size of the folder has to be less than 25 MB otherwise manual upload of each file is the way to have them get uploaded on GitHub since 25 MB the base upload size for Github.
-\
-\
-\2.Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private.
-\
-\
-\3.Step 3 is to host it online; all .md files have to be in one of the directories in GitHub Pages home repository. Also have to change the Repo name in this special format which is  **`usernameofyourgithub.github.io`**.This is a very important part of the instruction though it takes small effort.
+1.You are likely to have resume in Markdown format up till now. Next, in your GitHub account, upload your resume.md file. However, if you did use Jekyll to format your resume, you can upload the entire folder. The size of the folder has to be less than 25 MB otherwise manual upload of each file is the way to have them get uploaded on GitHub since 25 MB the base upload size for Github.
+
+
+2.Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private.
+
+
+3.Step 3 is to host it online; all .md files have to be in one of the directories in GitHub Pages home repository. Also have to change the Repo name in this special format which is  **`usernameofyourgithub.github.io`**.This is a very important part of the instruction though it takes small effort.
 ![](0.JPG)
-\
-\
-\4.You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put in by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
-\
-\
+
+
+4.You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put in by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
+
+
 5.Lastly, it is for you to view your resume on your web browser. Go to link usernameofyourgithub.github.io. And if I'm not lucky enough at least it diversifies your knowledge.
 \
 \
