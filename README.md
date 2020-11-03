@@ -56,7 +56,7 @@ Do a meticulous review of my stated steps along with these checks:\
 ### More Resources :
 
 - I would say viewing some raw md formatted codes will obviously help you to learn some basics but if you want to learn in-depth and have a hand on practice, this link might help you in both ways.[Markdown Tutorial](https://github.com/sdsawtelle/markdown-resume/blob/master/resume.md)
-  -This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know. ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+-This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know. ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Still not confident or have some doubts, you might want to see this tutorial [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
 ## Authors and Acknowledgment :
@@ -67,5 +67,6 @@ Do a meticulous review of my stated steps along with these checks:\
 ## FAQ:
 **Question:** Why is Markdownbetter than a word processor?\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.\
+
 **Question:** Why is my resume not showing up?\
 **Answer:** It can happen, here are several helpful hotfixes, Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.
