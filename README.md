@@ -1,7 +1,7 @@
 
 # Hosting Markdown-formatted resume on Github  
 
-The procedure doesn't require any pre-skills on programming. All I need from you is your eminent focus for only 10 minutes if you have already had the prerequisites completed. It is supposed to be easier than installing an application on your operating system.
+The procedure doesn't require any pre-skills on programming. All I need from you is your eminent focus for only 10 minutes, if you have already had the prerequisites completed. It is supposed to be easier than installing an application on your operating system.
 
 ##  Purpose : 
 The practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll.
@@ -28,7 +28,7 @@ There are a lot of Jekyll themes available online. Try them out for saving time:
 -https://jekyllthemes.io/  
 -https://jekyll-themes.com/  
 
-if you are not interested in any of them and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
+if you are not interested in any of the pre-made theme and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
 -[Jekyll by Mike Dane](https://www.mikedane.com/static-site-generators/jekyll/)
 
 ## Instructions:
@@ -45,27 +45,27 @@ if you are not interested in any of them and want to make your template from scr
 ![](0.JPG)
 
 
-4.You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put in by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
+4.You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put into this tutorial by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
 
 
-5.Lastly, it is for you to view your resume on your web browser. Go to link usernameofyourgithub.github.io. And if I'm not lucky enough at least it diversifies your knowledge.
+5.Lastly, it is for you to view your resume on your web browser. Go to the link usernameofyourgithub.github.io. And if I'm not lucky enough at least it diversifies your knowledge.
 
 
 
 
 **Probable errors of not having your resume appeared online.**
 Do a meticulous review of my stated steps along with these checks:\
-             a)Extension of files,\
-             b)GitHub repo name,\
-             c)Public repo.
+             a)Correct Extension of files,\
+             b)Accurate format of GitHub repo name,\
+             c)Make it Public repo.
              
 
 
 ### More Resources :
 
-- I would say viewing some raw md formatted codes will obviously help you to learn some basics but if you want to learn in-depth and have a hand on practice, this link might help you in both ways.[Markdown Tutorial](https://github.com/sdsawtelle/markdown-resume/blob/master/resume.md)
-- This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know. ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- Still not confident or have some doubts, you might want to see this tutorial [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
+- I would say viewing some raw md formatted codes will obviously help you to learn some basics of Markdown but if you want to learn in-depth and have a hand on practice, this link might help you in both ways.[Markdown Tutorial](https://github.com/sdsawtelle/markdown-resume/blob/master/resume.md)
+- This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know how to document process in an objective manner. ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- Still not confident or have some doubts about hosting your resume online, you might want to watch this tutorial [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
 ## Authors and Acknowledgment :
  - ### Mostafa Raad Kamal
@@ -77,4 +77,4 @@ Do a meticulous review of my stated steps along with these checks:\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.\
 
 **Question:** Why is my resume not showing up?\
-**Answer:** It can happen, here are several helpful hotfixes, Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.
+**Answer:** It can happen, here are several helpful hotfixes: Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.
