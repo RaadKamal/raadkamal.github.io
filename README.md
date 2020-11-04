@@ -9,7 +9,7 @@ The practical steps of how to host and format a resume using Markdown, a Markdow
 ## Why would you want to host a resume online? 
 The answer is short and simple, you want to market yourself to the world. No one would know our skills, knowledge, and experience unless we had a way to inform. And with having an online resume, we can reach more recruiters which unlocks additional possibilities of getting hired. 
 
-## Prerequisite:
+## Prerequisite :
 
 ### Markdown
 Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor.
@@ -31,7 +31,7 @@ There are a lot of Jekyll themes available online. Try them out for saving time:
 if you are not interested in any of the pre-made theme and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
 -[Jekyll by Mike Dane](https://www.mikedane.com/static-site-generators/jekyll/)
 
-## Instructions:
+## Instructions :
 
 ![](file.gif)
 
@@ -72,7 +72,7 @@ Do a meticulous review of my stated steps along with these checks:\
     Contact: Kamalmr@myumanitoba.ca\
   Thank you to **Christena Penner** for being a great Professor to help me write this document.
 
-## FAQ:
+## FAQ :
 **Question:** Why is Markdownbetter than a word processor?\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.
 
