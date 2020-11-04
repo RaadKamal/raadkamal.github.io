@@ -76,8 +76,8 @@ Do a meticulous review of my stated steps along with these checks:\
 ## Authors and Acknowledgment :
  - ### Mostafa Raad Kamal
     Contact: Kamalmr@myumanitoba.ca\
-  Thank you to **Christena Penner** for being a great Professor to help me write this document.
-  Thanks to Adam Azarov, Tommy Wu, and Justin Band for being so informative about this assignment.
+  Thank you to **Christena Penner** for being a great Professor to help me write this document.\
+  Thanks to **Adam Azarov, Tommy Wu, and Justin Band** for being so informative about this assignment.
 
 ## FAQ :
 **Question:** Why is Markdownbetter than a word processor?\
