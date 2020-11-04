@@ -3,18 +3,18 @@
 
 The procedure doesn't require any pre-skills on programming. All I need from you is your eminent focus for only 10 minutes, if you have already had the prerequisites completed. It is supposed to be easier than installing an application on your operating system.
 
-##  Purpose : 
+##  Purpose 
 The practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll.
 
 ## Why would you want to host a resume online? 
 The answer is short and simple, you want to market yourself to the world. No one would know our skills, knowledge, and experience unless we had a way to inform. And with having an online resume, we can reach more recruiters which unlocks additional possibilities of getting hired. 
 
-## Summary:
+## Summary
 - [Prerequisites](#prerequisites)
-- [Instructions :](#instructions)
-- [More Resources :](#more-resources)
-- [Authors and Acknowledgements :](#authors-and-acknowledgments)
-- [FAQ :](#faq)
+- [Instructions](#instructions)
+- [More Resources](#more-resources)
+- [Authors and Acknowledgements](#authors-and-acknowledgments)
+- [FAQ](#faq)
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@ There are a lot of Jekyll themes available online. Try them out for saving time:
 if you are not interested in any of the pre-made theme and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
 -[Jekyll by Mike Dane](https://www.mikedane.com/static-site-generators/jekyll/)
 
-## Instructions :
+## Instructions
 
 ![](file.gif)
 
@@ -72,19 +72,19 @@ Do a meticulous review of my stated steps along with these checks:\
              
 
 
-### More Resources :
+### More Resources
 
 - I would say viewing some raw md formatted codes will obviously help you to learn some basics of Markdown but if you want to learn in-depth and have a hand on practice, this link might help you in both ways->[Markdown Tutorial](https://github.com/sdsawtelle/markdown-resume/blob/master/resume.md)
 - This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know how to document process in an objective manner -> ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Still not confident or have some doubts about hosting your resume online, you might want to watch this tutorial-> [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
-## Authors and Acknowledgments :
+## Authors and Acknowledgments
  - ### Mostafa Raad Kamal
     Contact: Kamalmr@myumanitoba.ca\
   Thank you to **Christena Penner** for being a great Professor to help me write this document.\
   Thanks to **Adam Azarov, Tommy Wu, and Justin Band** for being so informative about this assignment.
 
-## FAQ :
+## FAQ
 **Question:** Why is Markdownbetter than a word processor?\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.
 
