@@ -35,7 +35,7 @@ if you are not interested in any of the pre-made theme and want to make your tem
 
 ![](file.gif)
 
-1.You are likely to have resume in Markdown format up till now. Next, in your GitHub account, upload your resume.md file. However, if you did use Jekyll to format your resume, you can upload the entire folder. The size of the folder has to be less than 25 MB otherwise manual upload of each file is the way to have them get uploaded on GitHub since 25 MB the base upload size for Github.
+**1**.You are likely to have resume in Markdown format up till now. Next, in your GitHub account, upload your resume.md file. However, if you did use Jekyll to format your resume, you can upload the entire folder. The size of the folder has to be less than 25 MB otherwise manual upload of each file is the way to have them get uploaded on GitHub since 25 MB the base upload size for Github.
 
 
 2.Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private.
