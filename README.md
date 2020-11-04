@@ -74,7 +74,7 @@ Do a meticulous review of my stated steps along with these checks:\
 
 ## FAQ:
 **Question:** Why is Markdownbetter than a word processor?\
-**Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.\
+**Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.
 
 **Question:** Why is my resume not showing up?\
 **Answer:** It can happen, here are several helpful hotfixes: Make sure the repo is public, the file's extension is in the correct format, check your domain name according to the instruction.
