@@ -69,8 +69,8 @@ Do a meticulous review of my stated steps along with these checks:\
 
 ## Authors and Acknowledgment :
  - ### Mostafa Raad Kamal
-    contact: Kamalmr@myumanitoba.ca\
-  Thank you to Christena Penner for being a great Professor to help me write this document.
+    Contact: Kamalmr@myumanitoba.ca\
+  Thank you to **Christena Penner** for being a great Professor to help me write this document.
 
 ## FAQ:
 **Question:** Why is Markdownbetter than a word processor?\
