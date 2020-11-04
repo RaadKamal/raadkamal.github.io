@@ -12,11 +12,17 @@ The answer is short and simple, you want to market yourself to the world. No one
 ## Prerequisite :
 
 ### Markdown
-Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor.
+"Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor"
 Here are some helpful links to start with:
 - [Markdown Guide ](https://www.markdownguide.org/basic-syntax/)
 - [Download MarkdownPad](https://www.markdownpad.com/)
 - [Online Editor](https://dillinger.io/)
+
+Despite having limited flexibility to create your resume with Markdown. If you ever want to choose Microsoft word, you might consider reading this paragraph quoted from Andrew Etter's book named "Modern Technical Writing".
+
+> Even though Word will give you an opportunity to write up you resume and export it as PDF, it is not enough suitable to generate a HTML formatted documentation which you can keep in several versions.Also Word is only available for windows and macOS.
+
+>Markdown is crossplatform and free so it is supreior in every meaningful way.
 
 ### Github 
  A personal GitHub account is required to host your resume. 
