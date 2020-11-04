@@ -10,11 +10,11 @@ The practical steps of how to host and format a resume using Markdown, a Markdow
 The answer is short and simple, you want to market yourself to the world. No one would know our skills, knowledge, and experience unless we had a way to inform. And with having an online resume, we can reach more recruiters which unlocks additional possibilities of getting hired. 
 
 ## Summary:
-- [Prerequisites](#prerequisites)
-- [Instructions](#instructions)
-- [More Resources](#more-resources)
-- [Authors and Acknowledgements](#authors-and-acknowledgments)
-- [FAQ](#faq)
+- [Prerequisites :](#prerequisites)
+- [Instructions :](#instructions)
+- [More Resources :](#more-resources)
+- [Authors and Acknowledgements :](#authors-and-acknowledgments)
+- [FAQ :](#faq)
 
 ## Prerequisites :
 
