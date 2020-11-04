@@ -16,7 +16,7 @@ The answer is short and simple, you want to market yourself to the world. No one
 - [Authors and Acknowledgements](#authors-and-acknowledgments)
 - [FAQ](#faq)
 
-## Prerequisite :
+## Prerequisites :
 
 ### Markdown
 "Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor"
@@ -78,7 +78,7 @@ Do a meticulous review of my stated steps along with these checks:\
 - This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know how to document process in an objective manner -> ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Still not confident or have some doubts about hosting your resume online, you might want to watch this tutorial-> [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
-## Authors and Acknowledgment :
+## Authors and Acknowledgments :
  - ### Mostafa Raad Kamal
     Contact: Kamalmr@myumanitoba.ca\
   Thank you to **Christena Penner** for being a great Professor to help me write this document.\
