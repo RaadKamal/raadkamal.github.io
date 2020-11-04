@@ -19,7 +19,8 @@ The answer is short and simple, you want to market yourself to the world. No one
 ## Prerequisites
 
 ### Markdown
-"Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor"
+"Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber and Aaron Swartz. Markdown is often used for formatting readme files, writing messages in online discussion forums, and to create rich text using a plain text editor". It is concise and precise to the point for its easy readibility.
+
 Here are some helpful links to start with:
 - [Markdown Guide ](https://www.markdownguide.org/basic-syntax/)
 - [Download MarkdownPad](https://www.markdownpad.com/)
@@ -49,7 +50,7 @@ if you are not interested in any of the pre-made theme and want to make your tem
 **1.** You are likely to have resume in Markdown format up till now. Next, in your GitHub account, upload your resume.md file. However, if you did use Jekyll to format your resume, you can upload the entire folder. The size of the folder has to be less than 25 MB otherwise manual upload of each file is the way to have them get uploaded on GitHub since 25 MB the base upload size for Github.
 
 
-**2.** Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private.
+**2.** Now, all the files are in one directory and I think the repository is set to public by default. To clear our doubt, we can verify it by going to the settings and if not, make it public.I think only the pro user can set the repo private. There is also a chance for you to let your co-worker contribute in developing your resume. Because Github has distributed file sharing system.
 
 
 **3.** Step 3 is to host it online; all .md files have to be in one of the directories in GitHub Pages home repository. Also have to change the Repo name in this special format which is  **`usernameofyourgithub.github.io`**.This is a very important part of the instruction though it takes small effort.
@@ -59,7 +60,7 @@ if you are not interested in any of the pre-made theme and want to make your tem
 **4.** You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put into this tutorial by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember, there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
 
 
-**5.** Lastly, it is for you to view your resume on your web browser. Go to the link usernameofyourgithub.github.io.. And if I'm not lucky enough ,at least, it diversifies your knowledge.
+**5.** Lastly, it is for you to view your resume on your web browser. Go to the link usernameofyourgithub.github.io.. And if I'm not lucky enough ,at least, it diversifies your knowledge.Anyway, this is working like a static site, it has no server-side dependency and simple yet so effective providing valuable information.
 
 
 
