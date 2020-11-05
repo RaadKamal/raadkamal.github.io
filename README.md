@@ -28,7 +28,7 @@ Here are some helpful links to start with:
 
 Despite having limited flexibility to create your resume with Markdown. If you ever want to choose Microsoft word, you might consider reading this paragraph quoted from Andrew Etter's book named "Modern Technical Writing".
 
-> Even though Word will give you an opportunity to write up you resume and export it as PDF, it is not enough suitable to generate a HTML formatted documentation which you can keep in several versions.Also Word is only available for windows and macOS.Markdown is crossplatform and free so it is supreior in every meaningful way.
+> Even though Word will give you an opportunity to write up your resume and export it as PDF, it is not enough suitable to generate a HTML formatted documentation which you can keep in several versions.Also Word is only available for windows and macOS.Markdown is crossplatform and free so it is supreior in every meaningful way.
 
 ### Github 
  A personal GitHub account is required to host your resume. 
@@ -40,7 +40,7 @@ There are a lot of Jekyll themes available online. Try them out for saving time:
 -https://jekyllthemes.io/  
 -https://jekyll-themes.com/  
 
-if you are not interested in any of the pre-made theme and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
+if you are not interested in any of the pre-made themes and want to make your template from scratch, I suggest to go over this tutorial, I have found it quite helpful.
 -[Jekyll by Mike Dane](https://www.mikedane.com/static-site-generators/jekyll/)
 
 ## Instructions
