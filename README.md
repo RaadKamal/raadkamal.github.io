@@ -57,7 +57,7 @@ if you are not interested in any of the pre-made themes and want to make your te
 ![](0.JPG)
 
 
-**4.** You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put into this tutorial by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark beside your recently edited files, that is an assurance of all set to go. Remember, there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
+**4.** You might have already tried your link several times on your web browser but didn't get any motivation; after all the hard works you have put into this tutorial by now. Be patient, it takes few 10 seconds to update the files on the GitHub cloud. Aware of that green checkmark besides your recently edited files, that is an assurance of all set to go. Remember, there is a small amount of interval of time after each edit to view the resume. It doesn't happen in real-time.
 
 
 **5.** Lastly, it is for you to view your resume on your web browser. Go to the link usernameofyourgithub.github.io.. And if I'm not lucky enough ,at least, it diversifies your knowledge.Anyway, this is working like a static site, it has no server-side dependency and simple yet so effective providing valuable information.
