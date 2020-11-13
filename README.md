@@ -86,7 +86,7 @@ Do a meticulous review of my stated steps along with these checks:\
   Thanks to **Adam Azarov, Tommy Wu, and Justin Band** for being so informative about this assignment.
 
 ## FAQ
-**Question:** Why is Markdownbetter than a word processor?\
+**Question:** Why is Markdown better than a word processor?\
 **Answer:**  Unlike a word processor , you have limited options to deal with in Markdown, you will find yourself comfortable using Markdown shortly.
 
 **Question:** Why is my resume not showing up?\
