@@ -76,8 +76,8 @@ Do a meticulous review of my stated steps along with these checks:\
 ### More Resources
 
 - I would say viewing some raw md formatted codes will obviously help you to learn some basics of Markdown but if you want to learn in-depth and have a hand on practice, this link might help you in both ways->[Markdown Tutorial](https://github.com/sdsawtelle/markdown-resume/blob/master/resume.md)
-- This is an excellent book in terms of writing technically. I have utilized some of the concepts of this book to write this beneficial document for you. Grab a copy if you want to know how to document process in an objective manner -> ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- Still not confident or have some doubts about hosting your resume online, you might want to watch this tutorial-> [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
+- How to process document in an objective manner -> ["Modern Technical Writing" by  *Andrew Etter* ](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- You might want to watch this tutorial-> [How to host your website on Github ](https://www.youtube.com/watch?v=alMTZlYdIl4&ab_channel=CoffeeCoder)
 
 ## Authors and Acknowledgments
  - ### Mostafa Raad Kamal
